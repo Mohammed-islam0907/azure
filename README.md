@@ -1,5 +1,13 @@
 # Azure
 
+
+## Benefits of High Availability and Scalability in the Cloud
+
+- High availablility - multiple instances spread over different blast radiuses
+- elasticity: 
+    - vertically scale: "making bigger" - adding more memory, CPU etc. - means you'd have to stop services = downtime 
+    - horizontally scale: Adding/removing instances - no downtime 
+
 ## Resource Groups
 
 - Azure doesn't manage components 
