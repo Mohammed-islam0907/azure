@@ -8,11 +8,25 @@
     - vertically scale: "making bigger" - adding more memory, CPU etc. - means you'd have to stop services = downtime 
     - horizontally scale: Adding/removing instances - no downtime 
 
-## Resource Groups
+
+## Different Cloud Computing Types
+
+- Public 
+- Private (on prem)
+- Hybrid (both)
+
+## Differences Between Types of Cloud Computing
+
+- revisit 
+
+## Benefits and Usage of Resource Groups
 
 - Azure doesn't manage components 
 - Anything created in Azure portal = Azure resource 
-
+- Resources share lifecycle - provisioned/deprovisioned together  
+- RBAC - Role based access control - can give permissions to a certain 
+- IAM - access control - resources inherit permissions
+- Tags - Key value pairs
 
 ## Subscriptions 
 
@@ -30,3 +44,7 @@
  - **Virtual network peering**: 2 or more virtual networks connect in Azure
  - Azure VPN Gateway: ensures secure connections between on site infastructure & Azure VN
  - Azure Expressroute: Connection between on site infastructure and Azure datacentre, **without** going over the internet
+
+ ## 
+
+ - Saas - users pay on a subscription basis 
