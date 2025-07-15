@@ -28,7 +28,15 @@
 - IAM - access control - resources inherit permissions
 - Tags - Key value pairs
 
-## Subscriptions 
+## Benefits and usage of region and region pairs
+- Different countries have different rules so having seperate regions allows to adapt to regulations
+- Using diferent regions supports in the case of a disaster 
+- Region pairs have same regulatory boundaries but 100's miles apart  
+- Ensures failiure of one data centre doesn't effect the service running
+
+
+## Benefits and usage of subscriptions 
+
 
 - Hierarchial permissions
 
