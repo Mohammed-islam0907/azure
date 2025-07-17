@@ -36,9 +36,21 @@
 
 
 ## Benefits and usage of subscriptions 
+- every subscription trusts 1 and only one azure ad tenant
+- can apply budget, RBAC, policy - gets inheritied into resource groups and into resources
+- can have one or more resource groups in each subscrcritpion
 
 
 - Hierarchial permissions
+
+## Azure Resource Manager (ARM)
+- Used to interact with Azure
+- Management and deployment construction for Azure 
+- JSON template can be used to define resources - can be run as many times
+
+## Azure Arc
+- extends control plane of Azure to services outside of Azure
+
 
 ## Compute Services
 
